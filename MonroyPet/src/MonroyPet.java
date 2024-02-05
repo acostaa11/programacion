@@ -61,7 +61,7 @@ public class MonroyPet {
 	public String toString() {
 		String infor;
 		if ( tipo.equals("PERRO"))
-			infor="Pet nombre= " + nombre + ", tipo=" + tipo + ", huesos!!= " + alimentos
+			infor="Pet nombre= " + nombre + ", tipo=" + tipo + ", huesos!!!!!= " + alimentos
 					+ "  puntos " + puntos;
 		else
 			infor="Pet nombre=" + nombre + ", tipo=" + tipo + ", pescados= " + alimentos
